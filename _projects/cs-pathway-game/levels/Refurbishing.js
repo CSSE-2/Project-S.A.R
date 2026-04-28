@@ -1,6 +1,6 @@
-import GameEnvBackground from './essentials/GameEnvBackground.js';
-import Player from './essentials/Player.js';
-import Barrier from './essentials/Barrier.js';
+import GameEnvBackground from '@assets/js/GameEnginev1.1/essentials/GameEnvBackground.js';
+import Player from '@assets/js/GameEnginev1.1/essentials/Player.js';
+import Barrier from '@assets/js/GameEnginev1.1/essentials/Barrier.js';
 
 const SHOP_DATA = {
   weapons: [
