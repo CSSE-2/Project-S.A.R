@@ -1,6 +1,6 @@
-import GameEnvBackground from './essentials/GameEnvBackground.js';
-import Player from './essentials/Player.js';
-import CollectibleItem from './CollectibleItem.js';
+import GameEnvBackground from '@assets/js/GameEnginev1.1/essentials/GameEnvBackground.js';
+import Player from '@assets/js/GameEnginev1.1/essentials/Player.js';
+import CollectibleItem from '@assets/js/GameEnginev1.1/essentials/Collectible.js';
 
 class GameLevelPirateHunt {
     // Initializes the pirate hunt level with background, player, NPCs, and the heist checklist UI
