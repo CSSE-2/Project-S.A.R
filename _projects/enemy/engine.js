@@ -55,7 +55,7 @@ class Actor {
     }
 }
 
-// --- FILE SYSTEM & SPRITES ---
+// --- FILE SYSTEM & SPRITES ----
 document.getElementById('spriteInput').addEventListener('change', function(e) {
     const file = e.target.files[0]; if (!file) return;
     const reader = new FileReader();
